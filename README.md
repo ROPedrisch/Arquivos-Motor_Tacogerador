@@ -2,6 +2,8 @@
 Plataforma de baixo custo para ensino da montagem do motor tacogerador
 > Arquivos 3D, arquivo corte a laser e circuito impresso pcb
 
+No arquivo MTGsbg.SVG está disponível a placa PCB para o circuito.
+
 ### Modelagem
 Modelagem 3D do suporte do motor e acoplamento dos eixos.
 [Acesse os arquivos 3D aqui](https://github.com/Adrian-Rabelo/taco-gerador/tree/main/arquivos-3d)
